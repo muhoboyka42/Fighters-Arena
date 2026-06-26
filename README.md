@@ -3,7 +3,6 @@
 #### Интерактивный Telegram-бот для проведения боев двух персонажей с использованием ИИ.
 **Ссылка на видео (демонстрация продукта) 👇**
 
----
 
 [![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/143zBSm9sfpTzH_UjiGOobnA3wW3wo4vE/view?usp=sharing)
 
